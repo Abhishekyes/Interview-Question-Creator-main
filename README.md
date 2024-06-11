@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### GitHub commands
 
 ```bash
-1. git clone https://github.com/
+1. git clone https://github.com/Abhishekyes/Interview-Question-Creator-main.git
 
 2. git add .
 
@@ -42,3 +42,13 @@ pip install -r requirements.txt
 4. git push origin main
 
 ```
+
+### main
+"""
+Use Hugging face
+Langchain : Application
+Fast Api : UI
+FAISS : Vectordb,chromadb,Pinecone
+OPENAI/OPEN SOURCE : Issue
+Embedding Model :  
+"""
